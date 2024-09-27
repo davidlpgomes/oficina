@@ -1,0 +1,8 @@
+Eis a resposta para o maior problema da Computação:
+
+NP = P <-> N == 1 || P == 0
+N == 1 ? False // Não <-> 0 <-> False
+P == 0 ? False // Existe mais de um problema do mundo. 
+Logo NP != P
+
+agora cadê os meus 2 reais de prêmio???
